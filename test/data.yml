@@ -1,0 +1,19 @@
+credentials:
+  login: login
+  password: password
+
+data:
+  name: Longbob Longson
+  email_address: longbob@longbob.com
+  phone: 702-123-1234
+  address: 11234 Dream Lane
+  address2: Suite 1234
+  city: Las Vegas
+  state: NV
+  zip: 89123
+  routing_number: 000000000
+  account_number: 1234567890
+  bank_name: Bank of USA
+  check_amount: <%= "#{rand(99)}.#{rand(99)}" %>
+  check_date: 12/01/09
+  check_memo: Testing
