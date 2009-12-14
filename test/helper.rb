@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'test/unit'
-require 'activesupport'
+require 'active_support'
 require 'shoulda'
 require 'erb'
 require 'fakeweb'

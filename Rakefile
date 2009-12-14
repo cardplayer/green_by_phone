@@ -11,6 +11,9 @@ begin
     gem.homepage = "http://github.com/cardplayer/green_by_phone"
     gem.authors = ["Cardplayer"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
+    gem.add_development_dependency "active_support", ">= 0"
+    gem.add_development_dependency "fakeweb", ">= 0"
+    gem.add_development_dependency "erb", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new

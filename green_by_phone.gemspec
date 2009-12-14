@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "green_by_phone.gemspec",
      "lib/green_by_phone.rb",
      "lib/green_by_phone/gateway.rb",
      "lib/green_by_phone/response.rb",
